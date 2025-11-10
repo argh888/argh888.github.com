@@ -1,2 +1,2 @@
-# argh888.github.com
+# argh888.github.io
 Curriculum Vitae
